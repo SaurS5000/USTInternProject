@@ -1,0 +1,17 @@
+[
+    {
+    "name": "Biriyani",
+    "price": 10,
+    "qty":1
+   },
+   {
+    "name": "Mutton",
+    "price": 20,
+    "qty" : 1
+   },
+   {
+    "name": "Chicken",
+    "price": 20,
+    "qty" : 1
+   }
+]

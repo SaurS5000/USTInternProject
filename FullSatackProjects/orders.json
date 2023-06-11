@@ -1,0 +1,40 @@
+[
+    {
+      "orderId": "1",
+      "Name": "Joe",
+      "Number": "92865752",
+      "items": [
+        {
+          "name": "Biriryani",
+          "price": 10,
+          "qty": 1
+        },
+        {
+          "name": "Mutton",
+          "price": 20,
+          "qty": 2
+        }
+      ],
+      "totalCost": 30,
+      "orderDate": "2023-06-08"
+    },
+    {
+      "orderId": "2",
+      "Name": "Sam",
+      "Number": "92865752",
+      "items": [
+        {
+          "name": "Mutton",
+          "price": 20,
+          "qty": 1
+        },
+        {
+          "name": "Chicken",
+          "price": 20,
+          "qty": 1
+        }
+      ],
+      "totalCost": 40,
+      "orderDate": "2023-06-07"
+    }
+  ]
